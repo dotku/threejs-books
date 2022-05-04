@@ -34,4 +34,3 @@
 - [keyframes fade out](https://www.google.com/search?q=keyframe+fade+out&oq=keyframe+fade+out&aqs=chrome..69i57j0i22i30j0i390l4.3178j0j4&sourceid=chrome&ie=UTF-8)
 - [Flight Builder](https://codesandbox.io/s/3yz8ok276q)
 - https://github.com/rdiankov/collada_robots
-- 
