@@ -5,7 +5,7 @@
 - https://discoverthreejs.com/
 - [Google Search: Three js Book](https://www.google.com/search?q=three+js+book&oq=three+js+book&aqs=chrome..69i57j35i39j0i512l2j0i22i30j69i60l3.4343j0j4&sourceid=chrome&ie=UTF-8)
 - https://www.ilyameerovich.com/simple-3d-text-meshes-in-three-js/
-- https://codeworkshop.dev/blog/2019-12-31-learn-the-basics-of-react-three-fiber-by-building-a-three-point-lighting-setup/
+- [Learn the Basics of React Three Fiber by Building a Three-Point Lighting Setup](https://codeworkshop.dev/blog/2019-12-31-learn-the-basics-of-react-three-fiber-by-building-a-three-point-lighting-setup/)
 - https://threejs.org/docs/
 - https://www.donmccurdy.com/2020/06/17/color-management-in-threejs/
 
